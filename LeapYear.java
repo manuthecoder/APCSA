@@ -18,6 +18,5 @@ public class LeapYear
             middle = " is NOT ";
 
         System.err.println(input + middle + "a leap year");
-        scanner.close();
     }
 }
